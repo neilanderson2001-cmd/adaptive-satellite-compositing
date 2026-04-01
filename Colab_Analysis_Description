@@ -1,0 +1,8 @@
+NDVI and histogram analysis were conducted in Google Colab using exported GeoTIFF data.
+
+These analyses involved:
+- NDVI calculation
+- Statistical summaries (mean, standard deviation)
+- Histogram generation
+
+Due to the exploratory nature of this analysis, no standalone notebook file was retained. All results are presented in the report.
